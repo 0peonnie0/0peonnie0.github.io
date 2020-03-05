@@ -6,12 +6,12 @@
 
 @keyframes pjanim {
   0% {
-    font-size: 200px;
+    font-size: 300px;
     color: black;
     font-variation-settings: "wght" 250;
   }
   100% {
-    font-size: 200px;
+    font-size: 300px;
     color: black;
     font-variation-settings: "wght" 1000;
   }
@@ -41,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-size: 200px;
+  font-size: 300px;
   font-family: CITY;
   text-align: center;
   animation: 3s infinite pjanim;
