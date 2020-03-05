@@ -1,5 +1,5 @@
 @font-face {
-  font-family:Mutator;
+  font-family: peonnie;
   src: url(https://www.axis-praxis.org/fonts/webfonts/MutatorSans.ttf);
 }
 
@@ -17,7 +17,7 @@
 
 
 body {
-  font-family: Mutator;
+  font-family: peonnie;
   background-color: yellow;
 }
 h1 {
