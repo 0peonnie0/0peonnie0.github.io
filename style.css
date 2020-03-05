@@ -1,6 +1,6 @@
 @font-face {
-  font-family: peonnie;
-  src: url( NewFontGX.ttf);
+  font-family:Mutator;
+  src: url(https://www.axis-praxis.org/fonts/webfonts/MutatorSans.ttf);
 }
 
 @keyframes pjanim {
@@ -17,8 +17,8 @@
 
 
 body {
-  font-family: peonnie;
-  background-color: yellow;
+  font-family: Mutator;
+  background-color: pink;
 }
 h1 {
   animation:3s infinite pjanim;
